@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|c:\\users\\diemo\\onedrive - mail.udp.cl\\documentos\\college\\server-side scripting-asp.net\\lab01\\student200564972\\student200564972\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|solutionrelative:student200564972\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|c:\\users\\diemo\\onedrive - mail.udp.cl\\documentos\\college\\server-side scripting-asp.net\\lab01\\student200564972\\student200564972\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|solutionrelative:student200564972\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|c:\\users\\diemo\\onedrive - mail.udp.cl\\documentos\\college\\server-side scripting-asp.net\\lab01\\student200564972\\student200564972\\migrations\\20240619142527_studenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|solutionrelative:student200564972\\migrations\\20240619142527_studenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|c:\\users\\diemo\\onedrive - mail.udp.cl\\documentos\\college\\server-side scripting-asp.net\\lab01\\student200564972\\student200564972\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|solutionrelative:student200564972\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|c:\\users\\diemo\\onedrive - mail.udp.cl\\documentos\\college\\server-side scripting-asp.net\\lab01\\student200564972\\student200564972\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|solutionrelative:student200564972\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|c:\\users\\diemo\\onedrive - mail.udp.cl\\documentos\\college\\server-side scripting-asp.net\\lab01\\student200564972\\student200564972\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3087FA5-5555-4551-A7C2-1BCA376B20BC}|Student200564972\\Student200564972.csproj|solutionrelative:student200564972\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240619142527_StudentTable.cs",
+              "DocumentMoniker": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Migrations\\20240619142527_StudentTable.cs",
+              "RelativeDocumentMoniker": "Student200564972\\Migrations\\20240619142527_StudentTable.cs",
+              "ToolTip": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Migrations\\20240619142527_StudentTable.cs",
+              "RelativeToolTip": "Student200564972\\Migrations\\20240619142527_StudentTable.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:29:08.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Program.cs",
+              "RelativeDocumentMoniker": "Student200564972\\Program.cs",
+              "ToolTip": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Program.cs",
+              "RelativeToolTip": "Student200564972\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:30:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Student200564972\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Student200564972\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:29:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Student200564972\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Models\\Student.cs",
+              "RelativeToolTip": "Student200564972\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:26:30.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\appsettings.json",
+              "RelativeDocumentMoniker": "Student200564972\\appsettings.json",
+              "ToolTip": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\appsettings.json",
+              "RelativeToolTip": "Student200564972\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T13:17:12.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Student200564972\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diemo\\OneDrive - mail.udp.cl\\Documentos\\College\\Server-Side Scripting-ASP.NET\\LAB01\\Student200564972\\Student200564972\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Student200564972\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T13:03:55.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
